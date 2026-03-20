@@ -1,6 +1,6 @@
 {
   "name": "autoresearch-builder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Autonomous experiment loop for any project type. Inspired by karpathy/autoresearch.",
   "author": {
     "name": "Jung-Wan Kim"
