@@ -1,4 +1,5 @@
 ---
+name: autoresearch
 description: autoresearch 스타일 자율 실험 루프 실행. 단일 메트릭 기반 keep/discard 자동 판정.
 ---
 

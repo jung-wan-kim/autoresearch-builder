@@ -2,7 +2,8 @@
   "name": "autoresearch-builder",
   "version": "1.0.0",
   "description": "Autonomous experiment loop for any project type. Inspired by karpathy/autoresearch.",
-  "commands": {
-    "autoresearch": "autoresearch.md"
-  }
+  "author": {
+    "name": "Jung-Wan Kim"
+  },
+  "keywords": ["autoresearch", "experiment", "optimization", "autonomous"]
 }

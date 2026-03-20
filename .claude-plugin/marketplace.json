@@ -1,17 +1,19 @@
 {
   "name": "autoresearch-builder",
-  "version": "1.0.0",
   "description": "Autonomous experiment loop for any project type. Inspired by karpathy/autoresearch.",
   "owner": {
-    "name": "jung-wan-kim",
-    "url": "https://github.com/jung-wan-kim"
+    "name": "Jung-Wan Kim"
   },
   "plugins": [
     {
       "name": "autoresearch-builder",
-      "version": "1.0.0",
+      "source": "./",
       "description": "Autonomous experiment loop — modify, test, keep/discard, repeat forever",
-      "source": "."
+      "version": "1.0.0",
+      "author": {
+        "name": "Jung-Wan Kim"
+      },
+      "category": "productivity"
     }
   ]
 }
